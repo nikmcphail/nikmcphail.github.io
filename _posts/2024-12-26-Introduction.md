@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Introduction"
-date: 2024-12-26 17:57:20 -0500
+title:  "Introduction"
+date:   2024-12-26 18:11:00 -0500
 categories: about
 ---
 Hello, my name is Nikolas McPhail (or Nik as most people call me). I 
